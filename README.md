@@ -23,8 +23,8 @@ The following questions enclose the different challenges encountered while analy
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-*First Conclusion. Early summer is the best time to start crowdfunding a campaign based on the results obtained on our pivot table. The months of May, June and July proved to be a good time for theater productions with a total of 298 successful campaigns, 151 failed campaigns, and 8 canceled campaigns. We highly recommend Louise to consider this time of the year to start her crowdfunding campaign, being May the most successful time of the year to do so. 
-*Second Conclusion. The worst time of the year to launch a campaign would be the month of December. Based on our data this month has the lowest number of productions launched in a year, 75 in total. Almost 51% of the total productions of the month had a canceled and failed outcome. We discourage Louise from starting a crowdfunding campaign for her play in December. 
+First Conclusion. Early summer is the best time to start crowdfunding a campaign based on the results obtained on our pivot table. The months of May, June and July proved to be a good time for theater productions with a total of 298 successful campaigns, 151 failed campaigns, and 8 canceled campaigns. We highly recommend Louise to consider this time of the year to start her crowdfunding campaign, being May the most successful time of the year to do so. 
+Second Conclusion. The worst time of the year to launch a campaign would be the month of December. Based on our data this month has the lowest number of productions launched in a year, 75 in total. Almost 51% of the total productions of the month had a canceled and failed outcome. We discourage Louise from starting a crowdfunding campaign for her play in December. 
 
 
 - What can you conclude about the Outcomes based on Goals?
