@@ -10,9 +10,10 @@ Our objective is to provide a greater understanding of how other successful camp
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-[Theater_Outcomes_vs_Launch](
+![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png) 
 
 ### Analysis of Outcomes Based on Goals
+![![Outcomes_vs_Goals](https://user-images.githubusercontent.com/102701454/166121414-40d9a5f1-4414-4a18-bcf2-30636f595be8.png)
 
 
 ### Challenges and Difficulties Encountered
